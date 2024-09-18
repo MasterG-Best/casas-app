@@ -40,4 +40,7 @@
         background-color: #555;
         border-radius: 5px;
     }
+    p{
+        color:red;
+    }
 </style>
